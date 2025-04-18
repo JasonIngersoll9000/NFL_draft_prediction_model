@@ -1,0 +1,7 @@
+name,misclassification_type,pred_draft_prob,actual_wav,actual_wav_per_game,pred_wav,pred_wav_per_game
+Aaron Banks,"False Negative (Predicted Not Drafted, Actually Drafted)",0.4839018120649037,20.0,0.3773584905660377,0.0,0.0
+Blake Sims,"False Positive (Predicted Drafted, Actually Not)",0.5114878960055864,0.0,0.0,6.874688241590733,0.1855515575744106
+J.T. Barrett IV,"False Positive (Predicted Drafted, Actually Not)",0.5604169823959824,0.0,0.0,13.42503746241212,0.3321195119938223
+Jack Coan,"False Positive (Predicted Drafted, Actually Not)",0.7132988009400896,0.0,0.0,5.524095405172383,0.2273995441223155
+Manny Wilkins,"False Positive (Predicted Drafted, Actually Not)",0.525973842776731,0.0,0.0,2.5604642986640607,0.1618998648067494
+Mason Fine,"False Positive (Predicted Drafted, Actually Not)",0.5137924842004469,0.0,0.0,6.609130143830347,0.2948344409029651
